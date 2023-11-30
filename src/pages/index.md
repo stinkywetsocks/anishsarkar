@@ -6,8 +6,8 @@ title: home
 
 # Anish Sarkar 
 
-[resume](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[resume](https://localhost)
 
-[projects](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[projects](https://localhost)
 
-[contact](/contact)
+[contact](/localhost)
