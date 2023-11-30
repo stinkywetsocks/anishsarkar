@@ -4,7 +4,7 @@ title: home
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Anish Sarkar - Hacker, Cyclist, Visionary 
+# Anish Sarkar 
 
 [resume](https://www.youtube.com/watch?v=sEyHnHjhlr4)
 
