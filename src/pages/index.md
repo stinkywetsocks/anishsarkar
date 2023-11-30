@@ -1,17 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: home 
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Anish Sarkar - Hacker, Cyclist, Visionary 
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
-
-[instagram](https://www.instagram.com/caseyneistat/)
-
-[onlyfans](/onlyfans)
-
-[twitter](https://twitter.com/Casey)
-
+[resume](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[internet rover](https://www.youtube.com/watch?v=sEyHnHjhlr4)
 [contact](/contact)
