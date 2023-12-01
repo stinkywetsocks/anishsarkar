@@ -10,4 +10,4 @@ title: home
 
 [projects](https://localhost)
 
-[contact](/localhost)
+[contact](https://anishsarkar.com/contact)
