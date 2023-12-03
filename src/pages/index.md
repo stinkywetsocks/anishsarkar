@@ -6,7 +6,7 @@ title: home
 
 # Anish Sarkar 
 
-[resume](https://anishsarkar.com/AnishSarkar_CyberSecIntern.pdf)
+[resume](https://anishsarkar.com/AnishSarkar_CyberSecurityIntern.pdf)
 
 [projects](https://localhost)
 
