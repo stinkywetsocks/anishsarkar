@@ -8,6 +8,4 @@ title: home
 
 [resume](https://anishsarkar.com/AnishSarkar_CyberSecurityIntern.pdf)
 
-[projects](https://internetrover.xyz)
-
 [contact](https://anishsarkar.com/contact)
